@@ -7,7 +7,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>App Salón de Belleza</title>
+    <title>Conexion a la Base</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;700;900&display=swap" rel="stylesheet"> 
     <link rel="stylesheet" href="build/css/app.css">
 </head>
@@ -16,7 +16,7 @@
         <div class="imagen"></div>
         <div class="app">
             <header class="header">
-                <h1>App Peluqueria</h1>
+                <h1>Conexion a la Base</h1>
             </header>
 
             <div class="seccion">
